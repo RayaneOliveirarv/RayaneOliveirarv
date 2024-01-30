@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayane de Oliveira!
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me:  E-mail: rayane@ice.ufjf.br / Linkedin: https://www.linkedin.com/in/rayane-de-oliveira-ribeiro-do-vale/
                       
 

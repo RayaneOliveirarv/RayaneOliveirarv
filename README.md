@@ -6,6 +6,4 @@
 <a href="https://github.com/RayaneOliveirarv/github-readme-stats">
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RayaneOliveirarv&hide=stars&show_icons=true&theme=tokyonight"/>
 </a>
-<a href="https://github.com/RayaneOliveirarv/convoychat">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RayaneOliveirarv&theme=tokyonight"/>
-</a>
+
